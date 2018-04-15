@@ -1,0 +1,16 @@
+body {
+  background: #000;
+}
+
+h1 {
+  color: #FFF;
+  text-align: center;
+}
+
+section.elements {
+  margin: 0 auto;
+  width: 350px;
+  color: rgba(255, 255, 255, 0.2);
+
+
+}
